@@ -1,1 +1,1 @@
-Sitemap: http://palinatolma.ch/sitemap.xml
+Sitemap: https://palinatolma.ch/sitemap.xml
